@@ -1,4 +1,27 @@
 {
+  "stickers" : [
+    {
+      "filename" : "6.sticker"
+    },
+    {
+      "filename" : "Tutorial-2.sticker"
+    },
+    {
+      "filename" : "Tutorial-7.sticker"
+    },
+    {
+      "filename" : "Tutorial-15.sticker"
+    },
+    {
+      "filename" : "first.sticker"
+    },
+    {
+      "filename" : "Five.sticker"
+    },
+    {
+      "filename" : "5.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
